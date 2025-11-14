@@ -1,22 +1,25 @@
-# main links links
+# main links
 main:
   - title: "About Me"
     url: "/#about-me"
 
   - title: "Technical Skills"
-    url: "/#-technical-skills"
+    url: "/#technical-skills"
 
   - title: "Work Experience"
-    url: "/#-work-experience"
+    url: "/#work-experience"
 
   - title: "Key Projects"
-    url: "/#-key-projects"
+    url: "/#key-projects"
 
-  - title: "Education"
-    url: "/#-education"
+  - title: "News"
+    url: "/#news"
 
   - title: "Honors & Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
+
+  - title: "Education"
+    url: "/#education"
 
   - title: "Contact"
-    url: "/#-contact"
+    url: "/#contact"
