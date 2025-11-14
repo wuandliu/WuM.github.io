@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yihong Leng"
-description              : "Ph.D. Student, Xidian University" # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "SuperiorLeo/SuperiorLeo.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Wu Ming"
+description              : "Android Developer" # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+repository               : "wuandliu/WuM.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yihong Leng"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Xidian University"
-  location         : "Xian, China"
+  name             : "Wu Ming"
+  avatar           : "images/head.jpg"
+  bio              : "Shanghai University of Engineering Science"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=eBel2B8AAAAJ"
-  email            : "yhleng@stu.xidian.edu.cn"
+  googlescholar    : 
+  email            : "wuming_jm@foxmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SuperiorLeo" # e.g., "github username"
+  github           : "wuandliu" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
