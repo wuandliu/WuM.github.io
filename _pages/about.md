@@ -55,7 +55,7 @@ I am an Android Developer with 1+ year of experience (internal APK development &
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-- Outstanding Student, Outstanding Graduate  |             上海工程技术大学优秀学生、上海工程技术大学优秀毕业生
+- Outstanding Student, Outstanding Graduate  |     &nbsp;&nbsp;上海工程技术大学优秀学生、上海工程技术大学优秀毕业生
 - First-Class Scholarship, Second-Class Scholarship, Academic Scholarship | 上海工程技术大学一等奖学金、上海工程技术大学二等奖学金、上海工程技术大学学业奖学金
 
 <span class='anchor' id='education'></span>
